@@ -32,5 +32,8 @@
   },
   "prettier": {
     "singleQuote": true
+  },
+  "dependencies": {
+    "es-hangul": "^2.2.4"
   }
 }
